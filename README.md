@@ -30,6 +30,7 @@ mkdir padhal-sneakers
 cd padhal-sneakers
 git clone https://github.com/Projectsul22/Padhal-sneakers-frontend.git Padhal-sneakers
 
+Vous pouvez également récupérer le fichier zip : padhal-sneakers
 
 Site disponible à l’adresse :
 
